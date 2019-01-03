@@ -1,0 +1,6 @@
+---
+applications:
+- name: gs-rest-service-master2
+  memory: 1000M
+  instances: 1
+  path: /Users/Shared/Jenkins/Home/jobs/Demo1/workspace/target/gs-rest-service-0.1.0.jar                                           
